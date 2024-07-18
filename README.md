@@ -10,7 +10,6 @@
 
 <br>
 
- <h3> <u>Observação:</u>  Toda vez que a página é atualizada o plano de fundo é alterado com uma nova imagem.</h3>
 
 <br>
 <img src="https://github.com/SidemarOliveira/Projeto-Tela-de-Login/blob/main/assets/imagem%20Laptop%20(2).png?raw=true">
